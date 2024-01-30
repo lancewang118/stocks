@@ -2,4 +2,6 @@
 
 Python v3.7.3
 
-wxPython 3.0
+wxPython v3.0
+
+shioaji
